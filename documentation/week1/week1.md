@@ -30,4 +30,5 @@
 - [A-Frame Documentation](https://aframe.io/docs/1.4.0/introduction/)
 - [AR.js Documentation](https://ar-js-org.github.io/AR.js-Docs/)
 - [A-Frame/AR.js Guide](https://aframe.io/blog/arjs/)
+- [A-Frame/AR.js Demo](https://medium.com/arjs/augmented-reality-in-10-lines-of-html-4e193ea9fdbf)
 - [A-Frame/AR.js Image Tracking and Location Tracking Guide](https://aframe.io/blog/arjs3/)
