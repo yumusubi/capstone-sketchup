@@ -28,11 +28,11 @@
 
 ### 19 Jan 2023
 
-To start this project, I am following an older guide by Alexandra Etienne to get basic hiro tag recognition working. It looks like something has changed since the article was written in 2017, so I'll need to figure out why the hiro tag isn't being registered. On the bright side, I've got the internal laptop camera working, which is a lovely start.
+To start this project, I am following an older guide by Alexandra Etienne to get basic hiro tag recognition working. It looks like something has changed since the article was written in 2017, so I'll need to figure out why the hiro tag isn't being registered. On the bright side, I've got the internal laptop camera working which is a lovely start.
 
-Figured it out - the hiro tag needed to be on a white background for the tag to be recognized. Easy enough fix! Next steps: print one of our paper cubes and figure out how to make the tag recognized a shape instead of the hiro tag.
+FIGURED IT OUT - the hiro tag needed to be on a white background for the tag to be recognized. Easy enough fix! Next steps: print one of our paper cubes and figure out how to make the tag recognized a shape instead of the hiro tag.
 
-### TBC
+---
 
 ## Sources
 
