@@ -18,6 +18,7 @@
 
 ### Stretch Goals
 
+- [ ] Get cube to be "in" the paper cube rather than "on top" of the tag on the cube
 - [ ] Have a different shape appear in A-frame depending on which tag is shown to the camera
 - [ ] Track multiple tags on the camera at the same time
 
