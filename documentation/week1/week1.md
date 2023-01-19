@@ -13,7 +13,7 @@
 
 ### MVP Functions
 
-- [ ] Make an A-frame + AR.js demo using the internal laptop camera
+- [x] Make an A-frame + AR.js demo using the internal laptop camera
 - [ ] Make basic cube shape in A-frame to appear when the tag is seen
 
 ### Stretch Goals
@@ -23,7 +23,9 @@
 
 ---
 
-## Process
+## 19 Jan 2023
+
+To start this project, I am following an older guide by Alexandra Etienne to get basic hiro tag recognition working. It looks like something has changed since the article was written in 2017, so I'll need to figure out why the hiro tag isn't being registered. On the bright side, I've got the internal laptop camera working, which is a lovely start.
 
 ## Sources
 
