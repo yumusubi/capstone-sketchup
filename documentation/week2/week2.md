@@ -1,4 +1,4 @@
-# Week 2 - Refining A-Frame/AR.js/Glitch Demo
+# Week 2 - Focus on Dev for Static Position Demo
 
 ## Overview
 
