@@ -13,7 +13,7 @@
 
 ### MVP Functions
 
-- [x] Load all pattern files
+- [x] Load and track multiple tags on the camera at the same time
 - [x] Swap marker tag 'Y' for 'K' because 'Y' and 'A' are too similar in form
 - [x] Update the Blender model with new letter
 - [ ] Make documentation .gifs
