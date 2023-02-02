@@ -67,3 +67,5 @@ And now, the custom markers work! Unfortunately, troubleshooting this took up wa
 - [Rotate an A-Frame Object](https://github.com/aframevr/aframe/blob/master/docs/components/rotation.md)
 - [Create a Custom AR.js Marker](https://medium.com/arjs/how-to-create-your-own-marker-44becbec1105)
 - [Train AR.js Custom Marker Tool](https://ar-js-org.github.io/AR.js/three.js/examples/marker-training/examples/generator.html)
+- [Custom AR Walkthrough - Better than previous one](https://medium.com/@aschmelyun/so-you-want-to-get-started-with-ar-js-41dd4fba5f81)
+- [AR Marker tips and tricks](https://medium.com/@aschmelyun/tips-tricks-to-spice-up-your-ar-js-projects-fa89bc2ec296)
