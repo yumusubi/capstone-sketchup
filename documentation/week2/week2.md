@@ -14,15 +14,15 @@
 ### MVP Functions
 
 - [x] Make the cube in blender with the raised letters on the sides
-- [ ] Swap the image tag to use letters instead of hiro tags
-- [ ] Have the cube be persistent/exist on the screen independent of a qr code
+- [x] Have the cube be persistent/exist on the screen independent of a qr code
+- [x] Swap the image tag to use letters instead of hiro tags
 
 ### Stretch Goals
 
+- [x] Swap the blender cube into the current existing demo
 - [ ] Prototype the custom AR.js events for basic rotation between two faces
-- [ ] Swap the blender cube into the current existing demo
 - [ ] Figure out how to hide the live camera feed, either by covering it with another layer or removing it completely
-- [ ] Track multiple tags on the camera at the same time
+- [ ] ~~Track multiple tags on the camera at the same time~~
 
 ---
 
@@ -38,7 +38,9 @@ Then, I figured out how to make a quick rotation animation for documentation and
 
 ### Importing to A-Frame
 
-### Basic Rotation
+### Creating Custom Markers
+
+Since we need rotationally asymmetric markers that are also easily identified as unique from other faces for the paper cube, we chose to go with letters to denote the paper cube's orientation. Therefore, I needed to train AR.js to recognize the custom markers and also convert the letters on the cube template to actual markers.
 
 ---
 
@@ -47,3 +49,5 @@ Then, I figured out how to make a quick rotation animation for documentation and
 - [How to Emboss a Blender Object](https://youtu.be/lc3d0pM2fpo)
 - [Animate Rotating Object in Blender](https://youtu.be/6oXkRIN_t0Y)
 - [Rotate an A-Frame Object](https://github.com/aframevr/aframe/blob/master/docs/components/rotation.md)
+- [Create a Custom AR.js Marker](https://medium.com/arjs/how-to-create-your-own-marker-44becbec1105)
+- [Train AR.js Custom Marker Tool](https://ar-js-org.github.io/AR.js/three.js/examples/marker-training/examples/generator.html)
