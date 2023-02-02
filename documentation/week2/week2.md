@@ -22,7 +22,7 @@
 - [ ] Swap the blender cube into the current existing demo
 - [ ] Prototype the custom AR.js events for basic rotation between two faces
 - [ ] Figure out how to hide the live camera feed, either by covering it with another layer or removing it completely
-- [ ] ~~Track multiple tags on the camera at the same time~~
+- [ ] Track multiple tags on the camera at the same time
 
 ---
 
