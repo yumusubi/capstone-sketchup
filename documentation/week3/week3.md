@@ -43,3 +43,5 @@ With the hardware interaction having advanced enough, it's time to start focusin
 ---
 
 ## Sources
+
+-[A-Frame rotating StackOverflow](https://stackoverflow.com/questions/57757101/how-to-make-spinning-rotate-an-entity-in-a-frame)
