@@ -42,6 +42,12 @@ Then, I figured out how to make a quick rotation animation for documentation and
 
 Since we need rotationally asymmetric markers that are also easily identified as unique from other faces for the paper cube, we chose to go with letters to denote the paper cube's orientation. Therefore, I needed to train AR.js to recognize the custom markers and also convert the letters on the cube template to actual markers.
 
+AR markers (for my purposes and for the AR.js library) can be any image as long as it is not rotationally symmetrical. Thus, by choosing letters that are distinct in shape from one another and also rotationally asymmetrical, we can make a cube with distinct sides to both humans and the algorithm.
+
+After using the tool to train AR.js, I have the required pattern files (.patt files) I need to program into the software that should track the custom letter markers on the cube.
+
+![Paper cube pattern with custom AR markers](img/cube-markers.png)
+
 ---
 
 ## Sources
