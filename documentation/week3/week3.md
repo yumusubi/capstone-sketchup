@@ -9,7 +9,7 @@
 
 ### Timeline
 
-26 January 2023 - 01 February 2023
+02 February 2023 - 08 February 2023
 
 ### MVP Functions
 
