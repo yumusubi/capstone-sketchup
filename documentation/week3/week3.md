@@ -36,6 +36,12 @@ After loading all the markers into the project, the algorithm kept confusing 'Y'
 
 ![Updated cube template with 'K'](img/updated-cube-template.png)
 
+### Tracking multiple tags
+
+Updated the current AR-based demo to support tracking all 6 sides of the cube, as indicated by the different colored cubes.
+
+![tracking multiple tags demo](img/current-demo.gif)
+
 ### Beginning Dev on Software
 
 With the hardware interaction having advanced enough to test out the rest of our interaction, it's time to start focusing on producing the interactions that we actually want our users to have. This means creating a scene in A-Frame, independent of the AR camera frame and prototyping custom AR.js events to affect the rotational data of objects in that scene. Hopefully, this will be as simple as importing the blender cube into A-frame as an obj, and using if statements to control its rotation.
