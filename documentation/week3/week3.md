@@ -61,7 +61,7 @@ I've discussed options with Peter Gyory @ACME lab and tried a few basic "hacks" 
 1. Spend a little more time "hacking" the loading process of AR.js into A-Frame to interrupt the loader the appends the video feed.
 2. Test AR.js with Three.js. A-frame is built on top of Three.js and removes some granular interactions. Perhaps I can get a similar interaction to what I'm looking for with said interactions.
 3. Quit trying to use AR.js and use a combination of A-frame/Three.js and a basic QR/Barcode reader. Might run into the same issue of getting data "out" of the QR reader library and into the A-frame side.
-4. Dig into the AR.js, as it is an open-source project, and repurpose the marker recognition algorithm. This effectively means modifying a chunk of the AR.js library by paring down functionality. **This one is ridiculous. I blantantly refuse to do this one.**
+4. Dig into the AR.js repo, as it is an open-source project, and repurpose the marker recognition algorithm. This effectively means modifying a chunk of the AR.js library by paring down functionality. **This one is ridiculous. I blantantly refuse to do this one.**
 5. If all the above fail, rethink the interaction of the cube with online, perhaps stratifying more towards a traditional AR.js approach.
 
 This is, after all, the prototyping phase. Since I'm making a proof of concept prototype, it's good that I'm finding the limitations of the software now instead of handing a dud to the SketchUp Dev teams.
