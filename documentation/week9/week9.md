@@ -26,7 +26,7 @@
 
 Another successful week! Here's the updated demo. It's not currently live as literally none of the kinks have been sorted out, but hey - it serves as a nice proof of concept.
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/808433094?h=603649ccc3" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+![Updated Cube Demo](img/blender-cube-demo.gif)
 
 Here, I am testing the possibility of not having the camera be visible on the canvas. In terms of SketchUp, this simulates a possible interaction within the SketchUp application. It's not perfect - because the laptop camera is front-facing, it is inverted and therefore doesn't provide a direct one to one connection to the user motion. 
 
